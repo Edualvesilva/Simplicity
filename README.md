@@ -1,2 +1,2 @@
-# simplicity
- Site institucional criado como exemplo nas aulas de HTML
+# Simplicity
+ Site institucional criado como exemplo nas aulas de Front-end
